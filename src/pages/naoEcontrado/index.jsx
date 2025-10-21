@@ -6,7 +6,7 @@ export default function NaoEncontrado() {
         <div className='pagina-nao-encontrado'>
             <div>
                 <h1 cassName='titulo'>Página Não Encontrada</h1>
-                <img src="/assets/images/nao-encontrado.webp" alt="imagem de página não encontrada"/>
+                <img src="/assets/images/nao-encontrado.webp" alt="imagem de página não encontrada" />
             </div>
         </div>
     )
