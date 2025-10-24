@@ -9,7 +9,7 @@ export default function App() {
     <div className="pagina-app pagina">
       <header className='cabecalho'>
         <h1 className='titulo1'> 
-          Marcela 
+          Do 44 
           <i className='fa fa-heart'></i>
         </h1>
       </header>
@@ -29,6 +29,9 @@ export default function App() {
       <ul>
         <li>
           <Link to='/contato'>Ir Para Contato</Link>
+        </li>
+        <li>
+          <Link to='/eventos'>Ir para Eventos</Link>
         </li>
       </ul>
 
